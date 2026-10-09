@@ -3,3 +3,9 @@
 name : Jakes Bejoy
 
 no of songs : 195
+
+2
+
+name : Arijit Singh
+
+no of songs : 736
